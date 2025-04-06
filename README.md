@@ -1,2 +1,2 @@
-# gihubpages_source
-hexo
+# gihubpages source code
+source code for quzhanghao.github.io
